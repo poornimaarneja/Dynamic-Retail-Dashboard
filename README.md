@@ -168,3 +168,11 @@ This dashboard is a powerful tool for retail businesses to:
 - Optimize operations and identify growth opportunities.
 - Make informed, data-driven decisions.
 
+### Visuals  
+The repository contains:  
+
+- Example visuals illustrating the solutions for each problem statement.  
+- Screenshots showcasing the complete dashboard with all its features and components.
+
+- ![image](https://github.com/user-attachments/assets/80f10fd7-2d6c-4989-8738-a886ab1cf3bc)
+
