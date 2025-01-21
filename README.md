@@ -122,26 +122,27 @@ The Dynamic Retail Dashboard is an interactive Excel-based tool designed to anal
 ![image](https://github.com/user-attachments/assets/4ec4d2e5-3787-455a-9953-84378b01daff)
 
 
-#### 9. **Market-Wise Total Sales**  
-   - To analyze total sales by market:
+#### 9. **Market-Wise Total Sales** 
 
-Import Data: Use Power Query to load the Orders Table into Excel.
-Group Data: Organize the data by grouping it based on the "Market" column, and compute the total sales for each market.
-Create Pivot Table: Build a Pivot Table where the "Market" column is added to the rows and "Sales" is placed in the values section.
-Sort Data: Arrange the Pivot Table in descending order of total sales to identify the highest-performing markets.
-Visualize Data: Represent the findings with a Bar Chart or Column Chart to clearly display sales contributions from different markets.
+- **Load Data:** Import the Orders Table using Power Query.  
+- **Group by Market:** Summarize total sales by the "Market" column.  
+- **Create Pivot Table:** Add "Market" to Rows and "Sales" to Values.  
+- **Sort:** Arrange markets by descending sales to highlight top performers.  
+- **Visualize:** Use a Bar or Column Chart to display sales by market.
+
+---
+
 
 ![image](https://github.com/user-attachments/assets/4d9660a3-fff5-43d3-86d6-9b65f0d6e281)
 
 
 #### 10. **Region-Wise Total Sales**  
-   - To evaluate total sales across regions:
 
-Combine Datasets: Use Power Query to connect the Orders Table and the People Table. Merge these datasets by matching a shared field, such as "Region."
-Group Data: Organize the combined data by grouping it based on the "Region" column, and calculate total sales for each region.
-Create Pivot Table: Develop a Pivot Table where the "Region" column is set in the rows and "Sales" in the values section.
-Highlight Patterns: Apply Conditional Formatting to emphasize regions with the highest and lowest sales for easy interpretation.
-Optional Visualization: Alternatively, create a Map Chart to visually illustrate sales distribution across regions, providing a geographical perspective.
+   - **Combine Data:** Merge Orders and People Tables via "Region" using Power Query.  
+- **Group by Region:** Calculate total sales for each region.  
+- **Create Pivot Table:** Add "Region" to Rows and "Sales" to Values.  
+- **Highlight:** Use Conditional Formatting to emphasize highest and lowest regions.  
+- **Visualize (Optional):** Create a Map Chart for geographical insights.
 ![image](https://github.com/user-attachments/assets/74534801-9a3b-40c0-bd8d-c3ac046c37d5)
 
 ---
