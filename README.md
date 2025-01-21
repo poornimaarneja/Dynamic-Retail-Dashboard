@@ -54,7 +54,8 @@ The Dynamic Retail Dashboard is an interactive Excel-based tool designed to anal
      - Create calculated fields for Profit Margin, Total Sales, Total Profit, and Orders.  
      - Display KPIs using an interactive table with visual indicators like icons.
 
----
+![image](https://github.com/user-attachments/assets/8ca3fa2d-a4c1-4439-9400-c04a9143f2c9)
+
 
 #### 2. **Sales and Profit Analysis**
    - **Objective:** Identify trends in sales and profits over time.  
@@ -63,7 +64,8 @@ The Dynamic Retail Dashboard is an interactive Excel-based tool designed to anal
      - Plot Sales and Profit values on a Line Chart.  
      - Use slicers for filtering by categories, regions, or segments.
 
----
+![image](https://github.com/user-attachments/assets/dbaeb84d-f3f3-434b-8217-add4acc97d3f)
+
 
 #### 3. **Category-Wise Profit**
    - **Objective:** Evaluate profitability across product categories.  
@@ -71,7 +73,8 @@ The Dynamic Retail Dashboard is an interactive Excel-based tool designed to anal
      - Create a Pivot Table with Category as rows and Profit as values.  
      - Visualize data with a sorted Bar Chart and interactive slicers.
 
----
+![image](https://github.com/user-attachments/assets/51b99977-c762-4c66-ae64-56bd765a7192)
+
 
 #### 4. **Segment-Wise Sales Share**
    - **Objective:** Show sales contribution of customer segments.  
@@ -79,7 +82,8 @@ The Dynamic Retail Dashboard is an interactive Excel-based tool designed to anal
      - Calculate percentage share of each segment using Sales values.  
      - Present data with a Pie or Donut Chart, displaying percentage labels dynamically.
 
----
+![image](https://github.com/user-attachments/assets/344f2889-7660-48eb-9d88-9e5162d4b6d0)
+
 
 #### 5. **Sales by Country**
    - **Objective:** Compare sales performance by country.  
@@ -88,7 +92,8 @@ The Dynamic Retail Dashboard is an interactive Excel-based tool designed to anal
      - Apply conditional formatting or Heatmaps for visualization.  
      - Optionally, use a Geographic Map Chart for a spatial overview.
 
----
+![image](https://github.com/user-attachments/assets/ca621679-ef0b-447a-9f6a-98b13e71d07c)
+
 
 #### 6. **Top 5 Subcategories**
    - **Objective:** Identify the best-performing subcategories.  
@@ -96,7 +101,8 @@ The Dynamic Retail Dashboard is an interactive Excel-based tool designed to anal
      - Sort a Pivot Table by Sales in descending order.  
      - Filter for the top 5 subcategories and create a Column Chart.
 
----
+![image](https://github.com/user-attachments/assets/452beea5-bce6-4746-bda7-5b3976837820)
+
 
 #### 7. **Bottom 5 Subcategories**
    - **Objective:** Highlight underperforming subcategories.  
@@ -104,7 +110,8 @@ The Dynamic Retail Dashboard is an interactive Excel-based tool designed to anal
      - Sort the Pivot Table by Sales in ascending order.  
      - Filter for the bottom 5 subcategories and emphasize them in a Column Chart.
 
----
+![image](https://github.com/user-attachments/assets/9c01cae6-f4f9-4657-a036-fba9c9128693)
+
 
 #### 8. **Yearly Sales Trends**
    - **Objective:** Analyze yearly sales trends.  
@@ -112,13 +119,17 @@ The Dynamic Retail Dashboard is an interactive Excel-based tool designed to anal
      - Use a Pivot Table to group data by Year.  
      - Create a Line Chart to show trends over time with slicers for interactive filtering.
 
----
+![image](https://github.com/user-attachments/assets/4ec4d2e5-3787-455a-9953-84378b01daff)
+
 
 #### 9. **Market-Wise Total Sales**  
    - Use Pivot Tables and a Bar Chart to display sales for each market dynamically.
+![image](https://github.com/user-attachments/assets/4d9660a3-fff5-43d3-86d6-9b65f0d6e281)
+
 
 #### 10. **Region-Wise Total Sales**  
    - Similar to market analysis, show sales distribution across regions.
+![image](https://github.com/user-attachments/assets/74534801-9a3b-40c0-bd8d-c3ac046c37d5)
 
 ---
 
